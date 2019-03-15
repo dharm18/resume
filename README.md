@@ -1,5 +1,6 @@
 # Resume in LATEX Format [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fdharm18%2Fresume&via=vdharm&text=Get%20your%20own%20beautiful%20and%20stunning%20look%20resume%20in%20Latex%20Format.%20&hashtags=latex-resume-template%2C%20resume-template%2C%20resume%2Ccv)
 ## About
+
 This is my experimentation in making resume in Latex format. It gives a beautiful and stunning resume.
 
 ## Getting Started
@@ -57,6 +58,9 @@ There are mainly two approach in which you can get started.
 
 * [LaTeX](https://www.latex-project.org/) - LaTex Distribution for local setup
 * [TexStudio](https://www.texstudio.org) - LaTeX editor
+
+## Author
+[Dharmendra Vishwakarma](http://vdharam.com)
 
 ## License
 This work is distributed under the [MIT license](https://opensource.org/licenses/MIT) see the [LICENSE](LICENSE) file for details.
