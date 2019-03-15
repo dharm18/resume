@@ -35,6 +35,24 @@ There are mainly two approach in which you can get started.
     }
 
     ```
+2. **Modify Profile Section**
+    ```
+    \section{Profile:}
+    \item[$\bullet$]
+    new content goes here....
+    \item[$\bullet$]
+    ```
+
+3. **Add line break**
+    ```
+    \\
+    ```
+4. **Add Bold Styling to text**
+    ```
+    \bfseries
+    Your text goes here.....
+    ```
+
 ## Built With
 
 * [LaTeX](https://www.latex-project.org/) - LaTex Distribution for local setup
