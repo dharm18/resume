@@ -61,7 +61,7 @@ There are mainly two approach in which you can get started.
 * [TexStudio](https://www.texstudio.org) - LaTeX editor
 
 ## Author
-[Dharmendra Vishwakarma](http://vdharam.com) - [@dharm18](@dharm18)
+[Dharmendra Vishwakarma](http://vdharam.com) - [@dharm18](https://github.com/dharm18)
 
 ## License
 This work is distributed under the [MIT license](https://opensource.org/licenses/MIT) see the [LICENSE](LICENSE) file for details.
