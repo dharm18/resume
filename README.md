@@ -1,4 +1,5 @@
-# Resume in LATEX Format [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fdharm18%2Fresume&via=vdharm&text=Get%20your%20own%20beautiful%20and%20stunning%20look%20resume%20in%20Latex%20Format.%20&hashtags=latex-resume-template%2C%20resume-template%2C%20resume%2Ccv)
+# Resume in LATEX Format [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fdharm18%2Fresume&via=vdharm&text=Get%20your%20own%20beautiful%20and%20stunning%20look%20resume%20in%20Latex%20Format.%20&hashtags=latex-resume-template%2C%20resume-template%2C%20resume%2Ccv) [![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
+
 ## About
 
 This is my experimentation in making resume in Latex format. It gives a beautiful and stunning resume.
