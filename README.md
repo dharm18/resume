@@ -64,7 +64,7 @@ There are mainly two approach in which you can get started.
 [Dharmendra Vishwakarma](http://vdharam.com) - [@dharm18](https://github.com/dharm18)
 
 ## Issues
-Please create a new [issue](/issues) if you found any bugs or suggestions to implement. 
+Please create a new [issue](https://github.com/dharm18/resume/issues) if you found any bugs or suggestions to implement. 
 
 ## License
 This work is distributed under the [MIT license](https://opensource.org/licenses/MIT) see the [LICENSE](LICENSE) file for details.
