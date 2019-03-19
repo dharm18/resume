@@ -54,6 +54,11 @@ There are mainly two approach in which you can get started.
     \bfseries
     Your text goes here.....
     ```
+4. **Add Link to reference**
+    ```
+    \href{Your link goes here...}{Your text goes here.....}
+    ```
+
 
 ## Built With
 
